@@ -1,0 +1,48 @@
+* {
+
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+#search {
+    color: aqua;
+    background-color:white;
+    border:aqua solid;
+    margin: 10px;
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+#plus {
+    border: 2px aqua;
+    background-color:aqua;
+    color: white;
+    border:aqua solid;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    margin: 5px;
+}
+
+#create {
+    color: white;
+    background-color:rgb(3, 123, 221);
+    border:3px solid black;
+    margin: 5px;
+    width: 100px;
+    height: 50px;
+    border-radius: 2px;
+    box-shadow: 10px 5px 5px black;
+    text-align: center;
+    padding: 5px;
+
+}
+
+
+
